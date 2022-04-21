@@ -3,21 +3,19 @@
 
 [![Pixel project size](https://img.shields.io/github/repo-size/Leran-Ins/Pixel)](https://github.com/Leran-Ins/Pixel)
 
-### Sobre
-Um projeto simples que abrange o salvamento de várias pixel arts, sejam elas minhas ou não, aprender juntos, por que não?
+## Sobre
+Um projeto simples que abrange o salvamento de várias pixel arts, sejam elas minhas ou não, aprender juntos, por que não? Aqui veremos nossa evolução. Pensado e executado quase no mesmo dia(confesso, eu procrastinei e deixei esse _projeto_ para uma outra hora) esse repositório foi criado, agora sera eternizado **por todos nós**. 
 
-Aqui veremos nossa evolução, pensado e executado quase no mesmo dia(confesso, eu procrastinei e deixei esse _projeto_ para uma outra hora) esse repositório foi criado, agora sera eternizado **todos por nós**. 
+## Quer modificar algo?
+Acesse [modify](modify.md) para modificar ou quem sabe adicionar alguma pixel art!
 
-### Quer modificar algo?
-Acesse [Modify](MODIFY.md) para modificar ou adicionar alguma pixel art!
-
-### Temos metas!
+## Temos metas!
 Aliás, o que elas são? Qualquer um pode adicionar a sua própria?
-Sim, sim e sim. Bom elas não são "sim", mas posso explicar.
+Sim, sim e sim. Bom, elas não são "sim", mas posso explicar.
 
-* As metas aqui serve para que nos inspiremos, seja pra passar a meta de alguma pessoa, ou mesmo para que você se desafie. Seja ela boa ou não, acho que deveria colocar a sua.
+* As metas aqui servem para que nos inspiremos, seja pra superar a meta de alguma pessoa, ou mesmo para que você se desafie. Seja ela boa ou não, acho que deveria colocar a sua.
 
- 	Acesse [Goals](GOALS.md) para vê-las e saber como adicionar a sua! 
+ 	Acesse [goals](goals.md) para vê-las e saber como adicionar a sua! 
 
 
 

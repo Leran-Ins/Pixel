@@ -3,5 +3,4 @@
 2. _Nunca delete uma arte que não é sua!_
 3. _Não de visto na meta de alguma outra pessoa!_
 
-
-![](unsafe.png) **Caso quebre essas três regras, sua adição ou modificação de uma arte com certeza não sera aceita de modo algum!**
+**Caso quebre essas três regras, sua adição ou modificação de uma arte com certeza não sera aceita de modo algum!**
